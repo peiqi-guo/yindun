@@ -1,0 +1,11 @@
+argparse~=1.4.0
+numpy~=2.4.2
+torch~=2.10.0+cpu
+pandas~=3.0.1
+matplotlib~=3.10.8
+tqdm~=4.67.3
+torchvision~=0.25.0+cpu
+scikit-learn~=1.8.0
+opencv-python~=4.13.0.92
+mediapipe~=0.10.14
+pillow~=12.1.1
